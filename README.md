@@ -1,1 +1,4 @@
 # devops-project
+# Add a README file explaining how DevOps improves software delivery.
+# Adding a README file explaining how devops improves software delivery below;
+# DevOps is a way of working that brings teams of developers and operations together to enhance software delivery. It encourages collaboration, automation, and continuous testing throughout the development process. DevOps enables the enterprises to release software quickly with the help of automation for building, testing, and releasing. It also helps in enhancing the software quality by identifying errors early and also reducing the failure of the system.Overall, DevOps increases speed, reliability, and efficiency in software development and delivery.
